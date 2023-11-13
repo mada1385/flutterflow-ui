@@ -51,7 +51,7 @@ dependencies:
   mime_type: 1.0.0
   page_transition: 2.0.4
   percent_indicator: 4.2.2
-  rive: 0.10.3
+  rive:
   rive_common: 
   provider: 6.0.4
   smooth_page_indicator: 1.0.1
