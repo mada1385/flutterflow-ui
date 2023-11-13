@@ -46,7 +46,7 @@ dependencies:
   fl_chart: 0.55.0
   from_css_color: 2.0.0
   google_fonts: 4.0.3
-  intl: 0.18.1
+  intl: 0.18.0
   json_path:
   mime_type: 1.0.0
   page_transition: 2.0.4
