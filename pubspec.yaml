@@ -49,7 +49,7 @@ dependencies:
   intl: 0.18.0
   json_path:
   mime_type: 1.0.0
-  page_transition: 2.0.4
+  page_transition: 
   percent_indicator: 
   rive:
   rive_common: 
