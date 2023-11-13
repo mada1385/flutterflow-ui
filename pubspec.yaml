@@ -52,7 +52,7 @@ dependencies:
   page_transition: 2.0.4
   percent_indicator: 4.2.2
   rive: 0.10.3
-  rive_common: 0.0.6
+  rive_common: 
   provider: 6.0.4
   smooth_page_indicator: 1.0.1
   sqflite: 2.2.6
