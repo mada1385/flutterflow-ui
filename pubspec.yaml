@@ -55,7 +55,7 @@ dependencies:
   rive_common: 
   provider: 6.0.4
   smooth_page_indicator: 1.0.1
-  sqflite: 2.2.6
+  sqflite: 
   swipeable_card_stack: 0.0.5
   timeago: 
   table_calendar: 3.0.9
